@@ -1,0 +1,23 @@
+PCR-1: New Requirement - docs to Change:
+I propose we call this change request PCR-1 (product change request 1) and use it to document our changes throughout the documentation as follows
+
+SRS
+	 - Scope
+	 - 2.1 diagram
+	 - 4.5.3 REQ-16
+ProjectPlan.docx
+	 - diagram at least
+Traceability Matrix
+	 - REQ-16
+Problem Description
+	 - Diagram
+
+1. I recommend changing the diagram once and pasting it in these docs.
+2. The text will need to be changed manually by the doc owner.
+3. The check in comment for all should reference PCR-1
+
+4. We need to examine our training data and
+	 - determine good batch of data
+	 - determine whether we want to attempt the option formula
+		 - the program will help us do this with our testing.
+
