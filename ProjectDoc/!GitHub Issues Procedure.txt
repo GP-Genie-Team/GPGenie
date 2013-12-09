@@ -1,0 +1,23 @@
+GitHib Best Practices
+
+Add a New Issue
+ - Log in to Web GitHub.com
+ - From home page, right side of page, click either GPGenie link (for doc issues) or SourceCode (for program issues and bugs)
+ - On right of page, click tab/link for Issues
+ - Review issues - make sure it hasn't been entered yet
+ - Click New Issue green button on upper right
+
+Close an Issue
+ - In the PC app, commit and sync the change to the doc/code with the issue
+ - After Commit, in the right side workspace, there will be a link and 7char hex code after your username. Click it to copy the link.
+
+ - Log in to Web GitHub.com
+ - From home page, right side of page, click either GPGenie link (for doc issues) or SourceCode (for program issues and bugs)
+ - On right of page, click tab/link for Issues
+ - Locate the Open issue you are closing in the list and click it
+ - Locate the Comment field below the Issue text
+ - Paste the link into the field and write about what you did to fix it.
+ - Click 'Close' button to close the issue
+	Note - follow these steps byut just comment if you are not ready to close the Issue but just want to comment.
+
+
